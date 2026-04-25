@@ -36,8 +36,6 @@
 - **LinkedIn:** [https://www.linkedin.com/in/avetis-avetisyan-32b2a93b2/]
 ---
 
-### 📊 Моя активность на GitHub
-![Твоя статистика GitHub](https://github-readme-stats.vercel.app/api?username=AvetisAvetisian&show_icons=true&theme=tokyonight)
 
 EN
 
