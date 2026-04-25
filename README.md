@@ -89,4 +89,4 @@ I prefer working in Linux because it provides full control over the development 
 ---
 
 ### 📊 GitHub Stats
-![Avetis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvetisAvetisian&show_icons=true&theme=tokyonight)
+![Avetis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvoAvetisian&show_icons=true&theme=tokyonight)
